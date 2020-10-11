@@ -1,0 +1,1 @@
+require version-modem=2018-12-27 00:09:23,V10.2.2.0.OAAMIXM
